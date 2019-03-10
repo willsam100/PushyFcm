@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317441527168",
+    "firebase_url": "https://pushy-9fa97.firebaseio.com",
+    "project_id": "pushy-9fa97",
+    "storage_bucket": "pushy-9fa97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317441527168:android:2e6135e7601fcbb0",
+        "android_client_info": {
+          "package_name": "com.codingwithsam.pushy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317441527168-on2e936ui5c41fsu09sm1odvlldccb6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSMoeifif_L9fOQNcfNlONtHefxgsEvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
